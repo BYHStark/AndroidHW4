@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="News"
+        android:id="@+id/id1"
+        android:icon="@drawable/ic_news_black_24dp"
+        
+        />
+    <item
+        android:id="@+id/id2"
+        android:title="Class"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        />
+    <item
+        android:title="Coach"
+        android:id="@+id/id3"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        />
+    <item
+        android:title="Me"
+        android:id="@+id/id4"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+
+</menu>

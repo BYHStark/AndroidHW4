@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="level_base_title"> 基础训练</string>
+    <string name="level_base_head">肌撕裂者 - 初级</string>
+    <string name="level_base_info">8分钟   40千卡   L1初级</string>
+    <string name="level_enhance_title"> 进击训练</string>
+    <string name="level_enhance_head">肌撕裂者 - 中级</string>
+    <string name="level_enhance_info">9分钟   60千卡   L3中级</string>
+    <string name="level_acme_title"> 魔鬼训练</string>
+    <string name="level_acme_head">肌撕裂者 - 极致</string>
+    <string name="level_acme_info">11分钟   100千卡   L5高级</string>
+
+    <string name="me_homepage_text">设置</string>
+    <string name="me_exercise_unit">锻炼时间 / 分钟</string>
+    <string name="me_record_uint">累计打卡 / 天</string>
+    <string name="me_exit_text">退出登录</string>
+    <string name="message">离线查看</string>
+    <string name="me_comment_text">我的课程</string>
+    <string name="me_record_text">运动记录</string>
+    <string name="me_favor_text">我的收藏</string>
+    <string name="me_record_number">0</string>
+    <string name="me_app_version">V1.0</string>
+</resources>

@@ -32,7 +32,12 @@ public class Message extends AppCompatActivity {
         SQLiteDatabase db = dbHelper.getWritableDatabase();
         ContentValues values = new ContentValues();
         values.put("training", "running");
-        values.put("trainer", "coach fui");
+        values.put("trainer", "赵教练：特长：游泳");
+        values.put("trainer", "钱教练：特长：击剑");
+        values.put("trainer", "孙教练：特长：足球");
+        values.put("trainer", "李教练：特长：篮球");
+        values.put("trainer", "周教练：特长：乒乓球");
+        values.put("trainer", "吴教练：特长：羽毛球");
 
         db.insert("train", null, values);
         db.close();
